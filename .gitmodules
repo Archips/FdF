@@ -1,0 +1,6 @@
+[submodule "macOs"]
+	path = macOs
+	url = https://github.com/Archips/FdF_macOs
+[submodule "linux"]
+	path = linux
+	url = https://github.com/Archips/FdF_linux
