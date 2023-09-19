@@ -23,9 +23,9 @@
 To use this project, follow these steps:
 
 1. Clone the repository to your local machine.  
-2. Navigate to the project directory.  
-3. Compile the source files using the provided Makefile (`make bonus` for all features).
-4. Run the program, specifying a .fdf file as input:
+2. Navigate to the project directory.
+4. Compile the source files using the provided Makefile (`make bonus` for all features).
+5. Run the program, specifying a .fdf file as input:
    `./fdf [map].fdf`
 6. The program will display the 3D wireframe model of the landscape in a graphical window.
 7. To close the window and exit the program, either press the "ESC" key or click the window's close button.
@@ -37,12 +37,16 @@ To use this project, follow these steps:
   - zoom         `[- +]`
   - rotation x   `[up / down arrow]`
   - rotation y   `[left / right arrow]`
-  - rotation z   `[; ']`
+  - rotation z   `[; '`
   - change view  `[space]`
   - change color `[c v]`
   - reset map    `[r]`
   - exit         `[esc]`
 
+## Notes
+
+  - You can change the window's size by adjusting `WIDTH` and `HEIGHT` in includes/fdf.h
+  - The window's exit button is broken in the macOs version 
 
 ## Author
 
