@@ -24,7 +24,7 @@ To use this project, follow these steps:
 
 1. Clone the repository to your local machine [macOs version](https://github.com/Archips/fdf_macos_42) | [linux version](https://github.com/Archips/fdf_linux_42).  
 2. Navigate to the project directory.
-4. Compile the source files using the provided Makefile (`make bonus` for all features).
+4. Compile the source files using the provided Makefile (`make bonus` for all features on macOS).
 5. Run the program, specifying a .fdf file as input:
    `./fdf [map].fdf`
 6. The program will display the 3D wireframe model of the landscape in a graphical window.
