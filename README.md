@@ -24,7 +24,7 @@ To use this project, follow these steps:
 
 1. Clone the repository to your local machine.  
 2. Navigate to the project directory.  
-3. Compile the source files using the provided Makefile.
+3. Compile the source files using the provided Makefile (`make bonus` for all features).
 4. Run the program, specifying a .fdf file as input:
    `./fdf [map].fdf`
 6. The program will display the 3D wireframe model of the landscape in a graphical window.
