@@ -1,4 +1,6 @@
-# FdF (linux version)
+# FdF 
+
+![fdf-demo](https://github.com/Archips/FdF/blob/main/fdf_demo_hd.gif)
 
 ## Project Highlights
 
@@ -6,7 +8,7 @@
 
 - **Representation:** The project aims to visualize landscapes by connecting points (x, y, z) with line segments (edges) to create a 3D wireframe model.
 
-- **Key Features:**
+- **Features:**
   - Render the model in isometric projection.
   - Read landscape coordinates from a .fdf file.
   - Use MiniLibX for window management and graphical elements.
@@ -27,6 +29,20 @@ To use this project, follow these steps:
    `./fdf [map].fdf`
 6. The program will display the 3D wireframe model of the landscape in a graphical window.
 7. To close the window and exit the program, either press the "ESC" key or click the window's close button.
+
+## Keys  
+
+  - move         `[w s a d]`
+  - altitude     `[< >]`
+  - zoom         `[- +]`
+  - rotation x   `[up / down arrow]`
+  - rotation y   `[left / right arrow]`
+  - rotation z   `[; ']`
+  - change view  `[space]`
+  - change color `[c v]`
+  - reset map    `[r]`
+  - exit         `[esc]`
+
 
 ## Author
 
