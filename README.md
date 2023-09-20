@@ -2,6 +2,10 @@
 
 ![fdf-demo](https://github.com/Archips/FdF/blob/main/fdf_demo_hd.gif)
 
+## Score
+
+-  125%
+
 ## Project Highlights
 
 - **Objective:** This project involves creating a wireframe model representation of a 3D landscape using the MiniLibX graphical library.
